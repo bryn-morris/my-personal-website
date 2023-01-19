@@ -1,0 +1,21 @@
+body {
+    background: #f9cb40;
+}
+h1 {
+    color: #4C5B5C;
+    width: 100%;
+    text-align: center;
+}
+
+#LIWIP li {
+    text-align: center;
+    color: #4c5b5c;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: #3AAED8;
+    list-style:none;
+}
+
+div.WIP > h2 {
+    text-align: center;
+}
